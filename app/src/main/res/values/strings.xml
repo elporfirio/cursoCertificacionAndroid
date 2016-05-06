@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cursoCertificacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_nombre">Nombre de usuario</string>
+    <string name="lbl_contrasena">Contraseña</string>
+    <string name="lbl_color">Seleccionar Color</string>
+    <string name="lbl_spinner">Presioname</string>
+</resources>
